@@ -84,7 +84,7 @@ import './cron.js'
 
 
 * 📂 **GitHub Repo:**
-  https://github.com/salmanulfariskk/CryptoCurrencyTracker](https://github.com/salmanulfariskk/CryptoCurrencyTracker
+  (https://github.com/salmanulfariskk/CryptoCurrencyTracker)
 
 ---
 
