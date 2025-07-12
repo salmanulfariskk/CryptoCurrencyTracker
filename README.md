@@ -82,8 +82,6 @@ import './cron.js'
 * 🌐 **Live (Vercel):**
   https://crypto-currency-tracker-seven.vercel.app/
 
-* 🛠 **Backend (Render):**
-  https://cryptocurrencycalculator-xx9u.onrender.com
 
 * 📂 **GitHub Repo:**
   https://github.com/salmanulfariskk/CryptoCurrencyTracker](https://github.com/salmanulfariskk/CryptoCurrencyTracker
